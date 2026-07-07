@@ -10,13 +10,15 @@ Failed recall ⇒ review resets to tomorrow. Updated by `/teach` at the end of e
 | F1 JS execution model | 1 | not-started | — | — | |
 | F2 Closures, scope, this, prototypes | 1 | not-started | — | — | |
 | F3 Async patterns | 1 | not-started | — | — | |
-| F4 TypeScript type system | 1 | not-started | — | — | |
+| F4 TypeScript type system | 1 | not-started | — | — | TEST-OUT week 1: pass = review-only, hrs → F11/F12 |
 | F5 HTML semantics + a11y | 2 | not-started | — | — | |
 | F6 CSS layout | 2 | not-started | — | — | |
 | F7 DSA I + Big-O | 2 | not-started | — | — | |
 | F8 DSA II | 2 | not-started | — | — | |
 | F9 SQL | 2 | not-started | — | — | |
 | F10 NoSQL + trade-offs | 3 | not-started | — | — | |
+| F11 Build tooling & bundlers | 2 | not-started | — | — | added by Amendment 1 |
+| F12 Web platform APIs | 2/3 | not-started | — | — | added by Amendment 1 |
 | SD1 First 5 minutes | 1 | not-started | — | — | re-drilled every cycle |
 | SD2 Core vocabulary | 2/3 | not-started | — | — | |
 | SD3 Backend designs | 1 | not-started | — | — | |

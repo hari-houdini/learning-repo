@@ -17,7 +17,7 @@ Hari (TypeScript engineer, 4–6 yrs, needs UK sponsorship) is failing interview
 - 24-week horizon starting 2026-07-07 (offers targeted from ~October 2026)
 
 ## Out of scope
-- "Advanced everything" — depth follows the 3-tier map in [curriculum/00-overview.md](curriculum/00-overview.md)
+- Advanced depth on peripheral topics — depth per topic follows the 3-tier map in [curriculum/00-overview.md](curriculum/00-overview.md); tiers are set by interview reality (the core IS at advanced tier), and test-out on evidence can reclaim study hours
 - Rebranding as a pure frontend or pure backend specialist
 - More than ONE portfolio project
 - Non-TypeScript ecosystems (Python ML, Go, etc.) beyond conversational awareness
