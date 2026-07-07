@@ -2,8 +2,12 @@
 
 The ONE project (see [MISSION.md](../MISSION.md) — one, not three). Purpose: turn "have you used multi-agent AI?" from a fatal question into a demo + architecture story + trade-off opinions.
 
-## Candidate concept (confirm at week-3 kickoff)
+## Candidate concepts (decide at week-3 kickoff)
 
+### Candidate B (added after baseline diagnostic): build the food-expiry app
+Hari has a self-authored DESIGN (no code yet): Gemini/vision model extracts product/date from photos + RAG over government food-safety sources → expiry estimate; agents + evals to be added on top. Pros: his own idea (motivation + authorship — "I designed it, then built it end-to-end" is a strong arc), naturally covers multimodal + RAG (A7) alongside tools/agents/evals. Cons: no head start — greenfield like Candidate A; and the domain is less obviously "agentic" — must avoid agents-for-agents'-sake (though "I evaluated and multi-agent WASN'T worth it here" is itself a strong answer if backed by evals).
+
+### Candidate A: multi-agent job-search assistant
 **Multi-agent job-search assistant** — dogfooded weekly on the real search:
 - **Research agent** — given a company/posting: gathers facts, recent news, tech stack, sponsorship signals
 - **CV-tailoring agent** — maps the story bank + CV against a posting; proposes targeted bullet edits

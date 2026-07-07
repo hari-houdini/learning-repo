@@ -2,6 +2,8 @@
 
 The differentiator track. Every module pairs theory with a commit to the [portfolio project](../../project/) — no module is "learned" until something in the project uses it. Primary sources: Anthropic's *Building Effective Agents* essay and Claude Docs (see [RESOURCES.md](../../RESOURCES.md)).
 
+**Baseline (2026-07-07 diagnostic, corrected same day):** zero built — the food-expiry app (Gemini Vision + RAG over government food-safety sources) exists as a self-authored DESIGN only, not code. A1/A2 are NOT compressible; A7 stays a full module. The design's existence is still a genuine positive — it shows product-thinking and gives the A-track a concrete target from day one. Vocabulary also needs formalizing (he described products as "stateful models").
+
 | # | Module | Tier | Objectives | Project pairing |
 |---|---|---|---|---|
 | A1 | LLMs, practically | 1 | Tokens, context windows, temperature/sampling, prompting patterns, why models hallucinate, model selection & cost | Choose model + budget for the project |
